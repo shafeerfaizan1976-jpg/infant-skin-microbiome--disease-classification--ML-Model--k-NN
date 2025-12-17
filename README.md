@@ -1,4 +1,4 @@
-                    infant-skin-microbiome--disease-classification--ML-Model--k-NN
+Infant-skin-microbiome--disease-classification--ML-Model--k-NN
 
 Description of the project: k-NN classification of infant skin microbiome profiles across time points and sampling skin sites, following biologically constrained preprocessing.
 
